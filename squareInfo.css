@@ -1,0 +1,55 @@
+.squareInfo{ 
+    background: #FFFFF9;
+    width:17.4vw; 
+    height:4vw; 
+    border:solid; 
+    border-color:white; 
+    text-align:center; 
+    padding:10px; 
+    border-radius: 0em;
+    padding: 1em;
+    position: absolute;
+    top: 74%;
+    left: 6.8%;
+    margin-right: -50%;
+} 
+span {
+    color: black;
+    font-family: 'Exo 2', sans-serif;
+}
+
+@media (max-width: 992px) {
+    .squareInfo{ 
+    background: #FFFFF9;
+    width:23.1vw; 
+    height:6vw; 
+    border:solid; 
+    border-color:white; 
+    text-align:center; 
+    padding:10px; 
+    border-radius: 0em;
+    padding: 1em;
+    position: absolute;
+    top: 120%;
+    left: 0.9%;
+    margin-right: -50%;
+} 
+}
+
+@media (max-width: 375px) {
+    .squareInfo{ 
+    background: #FFFFF9;
+    width:85vw; 
+    height:8vw; 
+    border:solid; 
+    border-color:white; 
+    text-align:center; 
+    padding:10px; 
+    border-radius: 0em;
+    padding: 1em;
+    position: absolute;
+    top: 696%;
+    left: 0%;
+    margin-right: -50%;
+} 
+}

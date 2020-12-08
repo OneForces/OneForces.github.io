@@ -1,0 +1,12 @@
+canvas{ 
+    width:30vw; 
+    height:35vw; 
+    position: absolute;
+    top: 90%;
+    left: 6.8%;
+} 
+@media (max-width: 375px) {
+    canvas{
+        visibility: hidden;
+} 
+}
