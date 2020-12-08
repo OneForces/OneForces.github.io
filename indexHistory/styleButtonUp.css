@@ -1,0 +1,25 @@
+.button {
+        color: white;
+        display:block;position:fixed;
+        /*положение кнопки*/
+        bottom:0px;right:5px;
+         /*оформление кнопки*/
+        width:65px;height:27px;padding:10px 3px 3px;font-size:16px;
+        background:#7C809C;
+        -webkit-border-radius:15px;
+        -moz-border-radius:15px;
+        border-radius:15px;
+        text-decoration: none;
+        font-family: 'Exo 2', sans-serif;
+}
+@media (max-width: 992px) {
+    .button {
+        visibility: hidden;
+
+}
+
+@media (max-width: 375px) {
+    .button {
+        visibility: hidden;
+}
+}

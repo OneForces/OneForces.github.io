@@ -1,0 +1,94 @@
+ .brd {
+    border: 4px double white; /* Параметры границы */
+    background: space; /* Цвет фона */
+    color: white;
+    padding: 10px; /* Поля вокруг текста */
+    width: 920px;
+    height: 4065px; /*square*/
+    display: block;
+    position: absolute;
+    left: 28%;
+    top: 21.6%;
+     border-radius:15px;
+}
+p.middle {
+font-size: 50px;
+  font-weight: normal;
+  cursor: pointer;
+  text-shadow: -1px -1px #FFF,
+               -2px -2px #FFF,
+               -1px 1px #FFF,
+               -2px 2px #FFF,
+               1px 1px #FFF,
+               2px 2px #FFF,
+               1px -1px #FFF,
+               2px -2px #FFF,
+               -3px -3px 2px #BBB,
+               -3px 3px 2px #BBB,
+               3px 3px 2px #BBB,
+               3px -3px 2px #BBB;
+  color: steelblue;
+  transition: all 1s;
+}
+.middle:hover {
+color: yellowgreen;
+}
+
+.fig {
+    border-radius:15px;
+    text-align: center; /* Выравнивание по центру */
+   }
+.fig1 {
+    border-radius:15px;
+    text-align: center; /* Выравнивание по центру */
+   }
+
+
+@media (max-width: 992px) {
+     .brd {
+    border: 4px double white; /* Параметры границы */
+    background: space; /* Цвет фона */
+    color: white;
+    padding: 10px; /* Поля вокруг текста */
+    width: 670px;
+    height: 4340px; /*square*/
+    display: block;
+    position: absolute;
+    left: 28%;
+    top: 21.6%;
+     border-radius:15px;
+}
+    .fig1 {
+    border-radius:15px;
+    text-align: center; /* Выравнивание по центру */
+    height: 550px;
+    width: 630px;
+    }
+}
+@media (max-width: 375px) {
+     .brd {
+    border: 4px double white; /* Параметры границы */
+    background: space; /* Цвет фона */
+    color: white;
+    padding: 10px; /* Поля вокруг текста */
+    width: 320px;
+    height: 4650px; /*square*/
+    display: block;
+    position: absolute;
+    left: 1%;
+    top: 73%;
+     border-radius:15px;
+}
+    .fig {
+    border-radius:15px;
+    text-align: center; /* Выравнивание по центру */
+    height: 350px;
+    width: 320px;
+    }
+        .fig1 {
+    border-radius:15px;
+    text-align: center; /* Выравнивание по центру */
+    height: 350px;
+    width: 330px;
+    }
+}

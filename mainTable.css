@@ -1,0 +1,988 @@
+ .brd {
+    border: 4px double white; /* Параметры границы */
+    background: space; /* Цвет фона */
+    color: white;
+    padding: 10px; /* Поля вокруг текста */
+    width: 920px;
+    height: 820px; /*square*/
+    display: block;
+    position: absolute;
+    left: 28%;
+    top: 21.6%;
+}
+.element {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 3%;
+    top: 1%;
+}
+.element:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 32.5%;
+  top: 70%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+.element2 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 27%;
+    top: 1%;
+}
+.element2:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair2 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 48.5%;
+  top: 70%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair2:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+ .element3 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 51%;
+    top: 1%;
+}
+.element3:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair3 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 64%;
+  top: 70%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair3:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element4 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 75%;
+    top: 1%;
+}
+.element4:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair4 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 79%;
+  top: 70%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair4:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+
+.element5 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 3%;
+    top: 51%;
+}
+.element5:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair5 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 32.5%;
+  top: 127%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair5:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element6 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 51%;
+    top: 51%;
+}
+.element6:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair6 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 64%;
+  top: 127%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair6:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element7 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 27%;
+    top: 51%;
+}
+.element7:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair7 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 48.5%;
+  top: 127%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair7:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element8 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 200px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 75%;
+    top: 51%;
+}
+.element8:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair8 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 79%;
+  top: 127%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair8:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+
+
+@media (max-width: 992px) {
+    .format {
+    width: 180px;
+    height: 270px;
+    }
+}
+
+@media (max-width: 992px) {
+    .format2 {
+    width: 160px;
+    height: 270px;
+    }
+}
+
+@media (max-width: 992px) {
+    .brd {
+    border: 4px double white; /* Параметры границы */
+    background: space; /* Цвет фона */
+    color: white;
+    padding: 10px; /* Поля вокруг текста */
+    width: 675px;
+    height: 820px; /*square*/
+    display: block;
+    position: absolute;
+    left: 28%;
+    top: 21.6%;
+}
+    .element {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 180px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 1%;
+}
+.element:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 31%;
+  top: 76%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+.element2 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 160px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 28%;
+    top: 1%;
+}
+.element2:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair2 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 48.5%;
+  top: 76%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair2:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+ .element3 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 160px;
+     height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 51%;
+    top: 1%;
+}
+.element3:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair3 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 65%;
+  top: 76%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair3:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element4 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 160px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 75%;
+    top: 1%;
+}
+.element4:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair4 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 81%;
+  top: 76%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair4:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+
+.element5 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+width: 180px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 51%;
+}
+.element5:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair5 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 31%;
+  top: 139%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair5:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element6 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 160px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 51%;
+    top: 51%;
+}
+.element6:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair6 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 65%;
+  top: 139%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair6:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element7 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 160px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 28%;
+    top: 51%;
+}
+.element7:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair7 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 48.5%;
+  top: 139%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair7:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element8 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 160px;
+    height: 390px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 75%;
+    top: 51%;
+}
+.element8:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair8 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 81%;
+  top: 139%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair8:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+}
+
+@media (max-width: 375px) {
+    .brd {
+    border: 4px double white; /* Параметры границы */
+    background: space; /* Цвет фона */
+    color: white;
+    padding: 10px; /* Поля вокруг текста */
+    width: 320px;
+    height: 3900px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 25%;
+}
+    .element {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; /*square*/
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 1%;
+}
+.element:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 94%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+.element2 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; 
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 14%;
+}
+.element2:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair2 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 170%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair2:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+ .element3 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; 
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top:  27%;
+}
+.element3:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair3 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 246%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair3:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element4 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; 
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 40%;
+}
+.element4:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair4 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 323%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair4:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+
+.element5 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; 
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 53%;
+}
+.element5:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair5 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 400%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair5:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element6 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; 
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 79%;
+}
+.element6:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair6 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 476%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair6:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element7 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; 
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 66%;
+}
+.element7:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+.buttonChair7 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 552%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair7:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+
+.element8 {
+    border:solid; 
+    border-color:gray; 
+    color: white;
+    width: 326px;
+    height: 455px; 
+    display: absolute;
+    position: absolute;
+    left: 1%;
+    top: 92%;
+}
+.element8:hover{
+padding: 3px; /*otstupi*/
+border:solid; 
+border-color:#808080; 
+border-width:1px; 
+} 
+
+.buttonChair8 {
+  background: white;   
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: black;
+  padding: 5px 9px;
+  margin: 10px 20px;
+  display: absolute;
+  position: absolute;
+  left: 30%;
+  top: 628%;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  border-radius: 10px; 
+}
+.buttonChair8:hover { 
+transition: 1.5s; 
+color: black; 
+background: gold; 
+} 
+}
+@media (max-width: 375px) {
+    .format {
+    width: 326px;
+    height: 365px;
+    }
+}
+@media (max-width: 375px) {
+    .format2 {
+    width: 326px;
+    height: 365px;
+    }
+}
